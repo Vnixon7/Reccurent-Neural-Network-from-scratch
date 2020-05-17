@@ -1,4 +1,3 @@
-# sequencial data
 import numpy as np
 import copy
 
